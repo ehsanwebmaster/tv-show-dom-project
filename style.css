@@ -10,3 +10,16 @@ header {
 .card > img {
   width: 100%;
 }
+.searchLable {
+  color: white;
+}
+.dropdownbtn {
+  margin-top: 33px;
+}
+.dropdown-menu.show {
+  background-color: #000;
+}
+.dropdown-item:focus,
+.dropdown-item:hover {
+  background-color: #dc3545;
+}
